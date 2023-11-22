@@ -1,0 +1,22 @@
+.card{
+font-family: sans-serif;
+line-height: 30px;
+
+}
+
+.card .folderIcon{
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: rgb(13, 110, 253);
+    font-size: 18px; 
+}
+
+.card h5{
+    font-size: 20px;
+   color: rgb(33, 37, 41);
+}
+
+.card p{
+color: rgb(70, 70, 70);
+}
